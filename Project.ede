@@ -1,0 +1,7 @@
+;; Object shader
+;; EDE project file.
+(ede-proj-project "shader"
+  :name "shader"
+  :file "Project.ede"
+  :targets 'nil
+  )

@@ -1,0 +1,1 @@
+If the shader does not compile, it will default to OpenGL's pipeline.

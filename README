@@ -1,0 +1,18 @@
+Build:
+make
+
+Run:
+./shader
+
+Usage:
+WASD (movement) and ARROW keys (look) control the camera.
+N - subdivide the surface (sqrt(3) subdivision algorithm)
+M - toggle mesh mode
+F - next fragment shader
+V - next vertex shader
+-/+ - previous / next scene
+P - resize window to 800x600
+Mouse left: selects nearest vertex if none is selected.  If one is
+selected, moves that vertex to where you click (equal distance from
+camera)
+Mouse right: sets the nearest vertex to where you click to be white.

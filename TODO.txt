@@ -1,0 +1,9 @@
+
+-get textures/background working
+--2D --DONE
+--3D
+--add texturing support to the scene implementations
+-reduce algorithm to remove "sufficiently smooth" vertices"
+-GUI overlay
+-Entity setup
+-Follow physics setup guide, implement
